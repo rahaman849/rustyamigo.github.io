@@ -25,7 +25,7 @@ Please follow the given steps to install the project
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, magni dicta blanditiis aliquam id. Porro ut commodi consequatur, quis quasi suscipit. Consequuntur est, dolore quibusdam consequatur unde fugit dicta nam!
 
-#### Deployment
+## Deployment
 
 Please follow the given steps for deployment
 
@@ -33,20 +33,20 @@ Please follow the given steps for deployment
 2. Step Two
 3. Step Three
 
-#### Built With
+## Built With
 
 * Build Tool One
 * Build Tool Two
 * Build Tool Three
 
-#### Authors
+## Collaborators
 
 *Khozema Nullwala* - Initial Work - [Khozema Nullwala](http://github.com/khozemanullwala) 
 
-#### License
+## License
 
 License Description
 
-#### Acknowledgements
+## Acknowledgements
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, modi.
