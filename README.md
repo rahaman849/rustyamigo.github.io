@@ -1,3 +1,7 @@
 # RustyAmigo
 
-![Image of Yaktocat](https://github.com/rustyamigo/images/blob/master/flower1.jpg)
+This is my profile page project!
+
+- List Item One
+  - Nested Item One
+  - Nested Item Two
