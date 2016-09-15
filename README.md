@@ -1,9 +1,9 @@
 # My Profile Page Project
----
+
 Description about the project
 
 ## Getting Started
----
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisite
@@ -30,7 +30,7 @@ Please follow the given steps to install the project
 2. You can simply download the zip file and extract it to a folder of your choice
 
 ## Test Used
----
+
 The project is tested against different browsers. 
 
 Please follow the given steps for testing the code. You can other way as well for doing the same: 
@@ -39,7 +39,7 @@ Please follow the given steps for testing the code. You can other way as well fo
 3. Click on the link.
 
 ## Deployment
----
+
 Please follow the given steps for deployment
 
 1. To deploy the project you need to have a github profile. 
@@ -47,17 +47,17 @@ Please follow the given steps for deployment
 3. You can visit the site by typing the following link `profilename.github.io` 
 
 ## Built With
----
+
 No Built tools were used for this project
 
 ## Collaborators
----
+
 **Khozema Nullwala** - Initial Work - [Khozema Nullwala](http://github.com/khozemanullwala) 
 
 ## License
----
+
 License Description
 
 ## Acknowledgements
----
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, modi.
