@@ -12,15 +12,16 @@ Things you must know before you start working with the project
 
 ##### Technologies
 
-* Requirement One
-* Requirement Two
-* Requirement Two
+* HTML5
+* CSS3
+* Javascript
+* jQuery
+* Bootstrap 3
 
 ##### Additional Tool
 
-* Requirement One
-* Requirement Two
-* Requirement Two
+* Web Server for Chrome extension
+* Sublime Text 3
 
 ### Installing
 
